@@ -4,9 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/5.jpg
-    content: >
-      ###### Providing Teesside with the largest selection of privately owned
-      Student Accommodation&#xA;Find your next home here
+    content: |
+      ###### No.1 Student Letting Agent in Teesside
     actions:
       - label: FIND YOUR NEXT HOME HERE
         url: /docs
