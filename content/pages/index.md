@@ -24,7 +24,7 @@ sections:
           view.  Would highly recommend!
 
         actions: []
-      - title: Blog
+      - title: can't recommend them enough
         content: >+
           Really helpful staff with quick response times, we only used them for
           our final year house but wish we'd have gone with them sooner.  We had
