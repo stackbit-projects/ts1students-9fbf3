@@ -54,7 +54,7 @@ sections:
       - label: Contact Us
         url: /docs/getting-started
         style: primary
-      - label: Get Started
+      - label: Find a Property
         url: /docs/getting-started
         style: secondary
 seo:
