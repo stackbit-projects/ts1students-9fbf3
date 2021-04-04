@@ -6,11 +6,8 @@ sections:
     title: Award Winning Student Accommodation
     image: images/5.jpg
     content: >
-      Providing Teesside with the largest selection of privately owned Student
-      Accommodation
-
-
-      ## Find your next home here
+      ###### Providing Teesside with the largest selection of privately owned
+      Student Accommodation&#xA;Find your next home here
     actions:
       - label: Get Started
         url: /docs
