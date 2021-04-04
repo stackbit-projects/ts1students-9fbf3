@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/5.jpg
+    image: images/LOGO NEW.jpg
     content: >
       ###### Providing Teesside with the largest selection of privately owned
       Student Accommodation&#xA;Find your next home here
