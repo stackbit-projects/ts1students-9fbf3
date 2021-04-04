@@ -33,10 +33,13 @@ sections:
 
         actions: []
       - title: Style Guide
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >+
+          TS1 are the best accommodation I have been with.  They are very
+          helpful and always on hand if something goes wrong.  I personally
+          would recommend TS1 to other students as they are very friendly and
+          always helpful.  They have really nice flats and the staff are
+          excellent with all students.
+
         actions: []
   - section_id: text-img
     type: section_content
