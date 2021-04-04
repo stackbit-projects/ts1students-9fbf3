@@ -46,10 +46,9 @@ sections:
     image: images/_61A0897.jpg
     image_position: left
     title: Voted Landlord of the Year...
-    content: |
-      by students at Teesside University!
+    content: |+
+      ...by students of Teesside University!
 
-      Become a TS1 Student today.
     actions:
       - label: Contact Us
         url: /docs/getting-started
