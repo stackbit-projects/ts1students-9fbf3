@@ -25,9 +25,12 @@ sections:
 
         actions: []
       - title: Blog
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >+
+          Really helpful staff with quick response times, we only used them for
+          our final year house but wish we'd have gone with them sooner.  We had
+          no issues with them and they found us a great 3 bed house in one day
+          of viewings, can't recommend them enough.
+
         actions: []
       - title: Style Guide
         content: >-
