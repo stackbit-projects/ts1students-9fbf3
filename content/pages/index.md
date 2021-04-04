@@ -8,7 +8,7 @@ sections:
       ###### Providing Teesside with the largest selection of privately owned
       Student Accommodation&#xA;Find your next home here
     actions:
-      - label: Get Started
+      - label: FIND YOUR NEXT HOME HERE
         url: /docs
         style: primary
     title: Student Accommodation in Middlesbrough
