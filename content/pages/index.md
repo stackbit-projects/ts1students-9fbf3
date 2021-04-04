@@ -5,9 +5,12 @@ sections:
     type: section_hero
     title: Award Winning Student Accommodation
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Providing Teesside with the largest selection of privately owned Student
+      Accommodation
+
+
+      ## Find your next home here
     actions:
       - label: Get Started
         url: /docs
