@@ -43,7 +43,7 @@ sections:
         actions: []
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: images/_61A0897.jpg
     image_position: left
     title: A Section With An Image
     content: >-
