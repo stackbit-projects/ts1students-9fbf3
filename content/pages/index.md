@@ -11,7 +11,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
-    title: S
+    title: Student Accommodation in Middlesbrough
   - section_id: features
     type: section_grid
     col_number: three
