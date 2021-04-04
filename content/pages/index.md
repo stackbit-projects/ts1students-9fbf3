@@ -45,7 +45,7 @@ sections:
     type: section_content
     image: images/_61A0897.jpg
     image_position: left
-    title: A Section With An Image
+    title: Voted Landlord of the Year...
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
