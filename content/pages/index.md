@@ -46,9 +46,20 @@ sections:
     image: images/_61A0897.jpg
     image_position: left
     title: Award Winning Student Accommodation
-    content: |+
-      ...by students of Teesside University!
+    content: |
+      *   Award winning student accommodation and staff
 
+      *   No upfront fees
+
+      *   Low deposits
+
+      *   24 hour maintenance
+
+      *   Close proximity to Teesside University
+
+      *   Safe and secure
+
+      *   Friendly staff
     actions:
       - label: Contact Us
         url: /docs/getting-started
