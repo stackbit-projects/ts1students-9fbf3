@@ -58,12 +58,6 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: secondary
-  - section_id: features-two-col
-    type: section_grid
-    title: Sample Layouts
-    subtitle: An optional subtitle of the section
-    col_number: two
-    grid_items: []
 seo:
   title: Stackbit Libris Theme
   description: The preview of the Libris theme
