@@ -3,7 +3,6 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: Award Winning |Affordable
     image: images/5.jpg
     content: >
       ###### Providing Teesside with the largest selection of privately owned
