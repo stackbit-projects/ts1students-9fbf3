@@ -51,7 +51,7 @@ sections:
 
       Become a TS1 Student today.
     actions:
-      - label: View Demo
+      - label: Contact Us
         url: /docs/getting-started
         style: primary
       - label: Get Started
