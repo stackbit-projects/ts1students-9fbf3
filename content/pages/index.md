@@ -17,10 +17,12 @@ sections:
     col_number: three
     grid_items:
       - title: Friendly and helpful staff...
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        content: >+
+          Such friendly and helpful staff that went the extra mile to help. 
+          When we unfortunately got Covid the staff were very understanding and
+          even sent videos showing us around the properties we could no longer
+          view.  Would highly recommend!
+
         actions: []
       - title: Blog
         content: >-
