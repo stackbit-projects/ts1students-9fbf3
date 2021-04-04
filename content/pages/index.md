@@ -4,8 +4,9 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/5.jpg
-    content: |
-      ###### No.1 Student Letting Agent in Teesside
+    content: >
+      ###### Providing the largest selection of student housing in Teesside,
+      offering a higher standard of student living&#xA;&#xA;
     actions:
       - label: FIND YOUR NEXT HOME HERE
         url: /docs
