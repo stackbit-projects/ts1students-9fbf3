@@ -16,7 +16,7 @@ sections:
     type: section_grid
     col_number: three
     grid_items:
-      - title: Friendly and helpful staff...'
+      - title: '''Friendly and helpful staff...'''
         content: >+
           Such friendly and helpful staff that went the extra mile to help. 
           When we unfortunately got Covid the staff were very understanding and
