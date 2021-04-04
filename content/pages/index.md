@@ -45,7 +45,7 @@ sections:
     type: section_content
     image: images/_61A0897.jpg
     image_position: left
-    title: Voted Landlord of the Year...
+    title: Award Winning Student Accommodation
     content: |+
       ...by students of Teesside University!
 
