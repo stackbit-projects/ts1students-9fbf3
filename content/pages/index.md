@@ -32,7 +32,7 @@ sections:
           of viewings, can't recommend them enough.
 
         actions: []
-      - title: '''best accommodation I have been with...'''
+      - title: '''Best accommodation I have been with...'''
         content: >+
           TS1 are the best accommodation I have been with.  They are very
           helpful and always on hand if something goes wrong.  I personally
