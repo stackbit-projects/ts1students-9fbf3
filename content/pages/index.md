@@ -46,10 +46,10 @@ sections:
     image: images/_61A0897.jpg
     image_position: left
     title: Voted Landlord of the Year...
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+    content: |
+      by students at Teesside University!
+
+      Become a TS1 Student today.
     actions:
       - label: View Demo
         url: /docs/getting-started
