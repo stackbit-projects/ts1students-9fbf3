@@ -45,7 +45,7 @@ sections:
     type: section_content
     image: images/_61A0897.jpg
     image_position: left
-    title: Award Winning Student Accommodation
+    title: Why choose us?
     content: |
       *   Award winning student accommodation and staff
 
