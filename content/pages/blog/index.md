@@ -2,7 +2,6 @@
 title: Who are we?
 image: images/5.jpg
 has_more_link: true
-more_link_text: Read more
 seo:
   title: Blog
   description: This is the blog page
