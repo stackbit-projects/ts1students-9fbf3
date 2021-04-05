@@ -68,7 +68,7 @@ sections:
         url: /docs/getting-started
         style: secondary
 seo:
-  title: Stackbit Libris Theme
+  title: TS1 Student Accommodation
   description: The preview of the Libris theme
   extra:
     - name: 'og:type'
