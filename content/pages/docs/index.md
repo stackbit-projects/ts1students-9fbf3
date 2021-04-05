@@ -1,5 +1,5 @@
 ---
-title: Welcome to Libris
+title: Who are we?
 seo:
   title: Welcome to Libris
   description: This is the documentation page
