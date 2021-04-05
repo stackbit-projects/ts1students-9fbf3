@@ -97,7 +97,7 @@ seo:
         Providing the largest selection of student housing in Teesside, offering
         a higher standard of student living.
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /images/LOGO%20NEW.jpg
       relativeUrl: true
 layout: advanced
 ---
