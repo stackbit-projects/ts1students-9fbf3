@@ -47,19 +47,19 @@ sections:
     image_position: left
     title: Why choose us?
     content: |
-      *   Award winning student accommodation and staff
+      Award winning student accommodation and staff
 
-      *   No upfront fees
+      No upfront fees
 
-      *   Low deposits
+      Low deposits
 
-      *   24 hour maintenance
+      24 hour maintenance
 
-      *   Close proximity to Teesside University
+      Close proximity to Teesside University
 
-      *   Safe and secure
+      Safe and secure
 
-      *   Friendly staff
+      Friendly staff
     actions:
       - label: Contact Us
         url: /docs/getting-started
