@@ -69,7 +69,9 @@ sections:
         style: secondary
 seo:
   title: TS1 Student Accommodation
-  description: The preview of the Libris theme
+  description: >-
+    Providing the largest selection of student housing in Teesside, offering a
+    higher standard of student living.
   extra:
     - name: 'og:type'
       value: website
