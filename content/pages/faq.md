@@ -1,8 +1,7 @@
 ---
 title: FAQ
 excerpt: >-
-  In this section you'll find commonly asked questions regarding the Libris
-  theme. If you have questions, don’t hesitate to ask us directly.
+  Take a look at our most frequently asked questions below. If your question is not here then feel free to write to us using the form below.
 seo:
   title: FAQ
   description: This is the faq page
