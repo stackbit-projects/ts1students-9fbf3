@@ -21,7 +21,7 @@ seo:
       value: FAQ
     - name: 'twitter:description'
       value: This is the faq page
-layout: docs
+layout: page
 ---
 Take a look at our most frequently asked questions below. If your question is not here then feel free to write to contact us via the contact page.
 
