@@ -1,7 +1,7 @@
 ---
 title: FAQ
 excerpt: >-
-  Take a look at our most frequently asked questions below. If your question is not here then feel free to write to us using the form below.
+  Take a look at our most frequently asked questions below. If your question is not here then feel free to write to contact us via the contact page.
 seo:
   title: FAQ
   description: This is the faq page
