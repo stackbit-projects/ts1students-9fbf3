@@ -35,7 +35,7 @@ Phone
 
 Email
 
-## Twitter
+## Address
 
 Vestibulum maximus volutpat eros a lobortis. Duis cursus neque id sollicitudin vehicula. Morbi varius dapibus est, sed bibendum diam aliquam eu. Morbi maximus consequat sem id vestibulum.
 
