@@ -37,8 +37,6 @@ Email
 
 ## Address
 
-Vestibulum maximus volutpat eros a lobortis. Duis cursus neque id sollicitudin vehicula. Morbi varius dapibus est, sed bibendum diam aliquam eu. Morbi maximus consequat sem id vestibulum.
-
-Nam semper, augue pharetra commodo commodo, magna augue ornare ligula, ut gravida nisi nulla vel velit. Quisque tincidunt posuere ex eget luctus.
+Address
 
 **Sed a dui in turpis porttitor hendrerit quis id odio.**
