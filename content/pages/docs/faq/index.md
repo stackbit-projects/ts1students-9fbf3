@@ -24,19 +24,13 @@ seo:
       value: This is the faq page
 layout: docs
 ---
+Take a look at our most frequently asked questions below. If your question is not here then feel free to write to us using the form below.
 
-This is an example of the FAQ page.
 
-<div class="note">
-  <strong>Note:</strong> 
-  This is the demo content for demonstration purpose only. The primary function of this content is to show you what this theme can do. There is a more detailed explanation in the <strong>Getting Started</strong> section.
-</div>
 
-<hr />
+## What fees do I have to pay?
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit?
-
-Praesent tristique sem nec lacus laoreet laoreet. Phasellus commodo consectetur viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent mattis rhoncus lacus, vel maximus eros aliquet sit amet. Suspendisse condimentum non elit ac laoreet. Etiam molestie nulla nec ligula ultricies tempor. Nulla facilisi. Cras egestas accumsan nisi. Praesent elementum vehicula turpis sed imperdiet. Curabitur vel justo vitae tellus egestas auctor convallis vel ante. Mauris rhoncus finibus nulla, id rhoncus sapien hendrerit sed. Nullam malesuada mi at erat maximus, in gravida eros aliquet. Proin in enim nec enim tristique lobortis. Nulla finibus consectetur lectus eu porttitor. Vivamus venenatis, mi sit amet laoreet venenatis, augue enim efficitur justo, nec gravida lectus libero vel augue. Integer accumsan nisi lectus, eget imperdiet sem condimentum ut.
+TS1 do not charge any admin fees or reservation fees for students. All that we ask, is that you make an upfront payment of £50 per person, which comes out of your deposit, to secure the property. You then have until the start of your tenancy to pay the rest of your deposit, which will be between £150-£200 per person.
 
 <hr />
 
