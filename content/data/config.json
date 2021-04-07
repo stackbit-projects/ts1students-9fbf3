@@ -41,7 +41,7 @@
             },
             {
                 "label": "Contact Us",
-                "url": "https://github.com/",
+                "url": "/docs/faq",
                 "style": "primary",
                 "has_subnav": false
             }
