@@ -41,7 +41,7 @@
             },
             {
                 "label": "Contact Us",
-                "url": "/docs/faq",
+                "url": "/docs/contact",
                 "style": "primary",
                 "has_subnav": false
             }
