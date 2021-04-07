@@ -34,7 +34,7 @@ TS1 do not charge any admin fees or reservation fees for students. All that we a
 
 <hr />
 
-## Pellentesque id elit mollis, pharetra libero in?
+## How do I pay my rent?
 
 Suspendisse ligula massa, convallis vel turpis at, laoreet venenatis felis. Sed erat tortor, volutpat venenatis efficitur at, mollis ut arcu. Suspendisse potenti. Nulla facilisi. Suspendisse vestibulum quis mi in ullamcorper. Donec rhoncus vitae velit iaculis lobortis. Aliquam eleifend dignissim orci.
 
