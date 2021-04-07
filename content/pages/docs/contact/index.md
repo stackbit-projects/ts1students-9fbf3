@@ -25,7 +25,7 @@ seo:
 layout: docs
 ---
 
-**Lorem ipsum dolor sit amet, consectetur adipiscing elit.** text
+**text.** text
 
 ## Stack Overflow
 
