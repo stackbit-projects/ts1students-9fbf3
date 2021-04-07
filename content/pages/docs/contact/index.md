@@ -31,7 +31,7 @@ layout: docs
 
 Phone 
 
-## Popular Discussion Forums
+## Email
 
 Donec eget tellus magna. Duis eu metus sem. Donec nec ullamcorper dui. Phasellus turpis mauris, lacinia ac imperdiet eu, dapibus eu metus. Vestibulum porta lectus vel dui eleifend pretium. Nulla facilisi. Nam luctus quam at velit congue tincidunt. Ut tempus justo at urna varius commodo.
 
