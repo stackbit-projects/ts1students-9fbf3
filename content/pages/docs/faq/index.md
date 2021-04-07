@@ -54,8 +54,7 @@ You can contact a member of our team by emailing ts1students@thirlwell-estates.c
 
 ## What do I do in case of an emergency?
 
-In case of an emergency that requires immediate attention please call our office on 01642 245 796 during working hours.
-                        Please call 07866210735 for any emergencies that may occur in the evenings after 5pm, weekends, and bank holidays including over the Christmas and New Year period.
+In case of an emergency that requires immediate attention please call our office on 01642 245 796 during working hours. Please call 07866210735 for any emergencies that may occur in the evenings after 5pm, weekends, and bank holidays including over the Christmas and New Year period.
                         Please understand that although it may seem like it, being locked out is not classed as an emergency and can be reported to our office within working hours.
 
 <hr />
