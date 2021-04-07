@@ -33,7 +33,7 @@
             },
             {
                 "label": "FAQ",
-                "url": "#",
+                "url": "/docs/faq",
                 "style": "link",
                 "has_subnav": false,
                 "subnav_links": [
