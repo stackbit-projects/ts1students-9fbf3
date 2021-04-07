@@ -63,7 +63,7 @@ sections:
       Friendly staff
     actions:
       - label: Contact Us
-        url: /docs/getting-started
+        url: /docs/contact
         style: primary
       - label: Find a Property
         url: >-
