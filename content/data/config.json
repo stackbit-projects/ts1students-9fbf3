@@ -16,7 +16,7 @@
             },
             {
                 "label": "About Us",
-                "url": "/blog",
+                "url": "/docs/about",
                 "style": "link",
                 "has_subnav": false
             },
