@@ -38,5 +38,3 @@ Email
 ## Address
 
 Address
-
-**Sed a dui in turpis porttitor hendrerit quis id odio.**
