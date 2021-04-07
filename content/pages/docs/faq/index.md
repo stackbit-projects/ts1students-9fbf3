@@ -60,7 +60,7 @@ In case of an emergency that requires immediate attention please call our office
 
 ## What do I do if I am locked out?
 
-                        If you lock yourself out within office hours a member of our team should be able to let you back in.
+If you lock yourself out within office hours a member of our team should be able to let you back in.
                         If it is out of hours you will need to contact a local locksmith.
                         Please notify the office the next day if any locks have been changed.
 
