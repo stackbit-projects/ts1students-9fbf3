@@ -37,16 +37,6 @@
                 "style": "link",
                 "has_subnav": false,
                 "subnav_links": [
-                    {
-                        "label": "Overview",
-                        "url": "/overview",
-                        "style": "link"
-                    },
-                    {
-                        "label": "Showcase",
-                        "url": "/showcase",
-                        "style": "link"
-                    }
                 ]
             },
             {
