@@ -66,7 +66,7 @@ If you lock yourself out within office hours a member of our team should be able
 
 ## Can I stay for longer than 1 year?
 
-Cras eu erat et ligula dictum feugiat at eget sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent et justo interdum, iaculis sapien sit amet, ornare est. Duis aliquam a elit et euismod. Sed convallis vestibulum sem sit amet interdum. Sed nec lobortis justo. Mauris fringilla porta risus, et volutpat diam congue at. Nullam commodo fringilla felis ut molestie. Nam eu elit risus. Nulla ornare posuere odio, nec tincidunt nulla elementum ac. Ut viverra eros fringilla aliquet porta. Nulla venenatis enim non blandit tincidunt.
+OF COURSE! We ask all existing tenants if they would like to stay on for another year before advertising the property.
 
 <hr />
 
