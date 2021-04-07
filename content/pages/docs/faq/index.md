@@ -72,4 +72,5 @@ OF COURSE! We ask all existing tenants if they would like to stay on for another
 
 ## Can I stay after I graduate?
 
-Cras vel congue augue. Integer sodales massa quis justo consectetur, id varius quam sagittis. Fusce molestie et diam ac faucibus. Morbi ut eleifend nibh. Quisque maximus velit eget leo aliquam mollis. Sed cursus nunc vitae dignissim consectetur. Vivamus eget venenatis leo, et aliquet odio. Nam mollis lectus ante, vel volutpat nulla elementum ac. Cras ut purus leo. Integer lacus ligula, vehicula vitae felis vel, iaculis tincidunt lorem. Etiam vestibulum venenatis neque sit amet semper. Fusce suscipit ante at mi blandit, a semper urna euismod.
+                        DEFINITELY! We are happy to let our properties to graduates as well as students.
+                        The only difference is that you may be liable to pay your own council tax. For more information contact our team.
