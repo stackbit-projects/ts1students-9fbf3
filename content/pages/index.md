@@ -9,7 +9,8 @@ sections:
       offering a higher standard of student living&#xA;&#xA;
     actions:
       - label: FIND YOUR NEXT HOME HERE
-        url: /docs
+        url: >-
+          https://www.rightmove.co.uk/property-to-rent/find/Clarke-Munro-TS1-Student-Accomodation/Middlesbrough.html?locationIdentifier=BRANCH%5E183665&propertyStatus=all&includeLetAgreed=true&_includeLetAgreed=on
         style: primary
     title: Student Accommodation in Middlesbrough
   - section_id: features
