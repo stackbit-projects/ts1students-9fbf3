@@ -42,8 +42,7 @@ Rent is normally paid termly when the student receives their student loan, howev
 
 ## Are my bills included in my rent?
 
-All of our properties will include your utility bills such as gas, electric and water. Most landlords also
-                        include the internet and TV licence, you can check this when enquiring about a property.
+All of our properties will include your utility bills such as gas, electric and water. Most landlords also include the internet and TV licence, you can check this when enquiring about a property.
 
 <hr />
 
