@@ -66,7 +66,8 @@ sections:
         url: /docs/getting-started
         style: primary
       - label: Find a Property
-        url: /docs/getting-started
+        url: >-
+          https://www.rightmove.co.uk/property-to-rent/find/Clarke-Munro-TS1-Student-Accomodation/Middlesbrough.html?locationIdentifier=BRANCH%5E183665&propertyStatus=all&includeLetAgreed=true&_includeLetAgreed=on
         style: secondary
 seo:
   title: TS1 Student Accommodation
