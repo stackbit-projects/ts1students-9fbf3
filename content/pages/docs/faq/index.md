@@ -36,7 +36,9 @@ TS1 do not charge any admin fees or reservation fees for students. All that we a
 
 ## How do I pay my rent?
 
-Suspendisse ligula massa, convallis vel turpis at, laoreet venenatis felis. Sed erat tortor, volutpat venenatis efficitur at, mollis ut arcu. Suspendisse potenti. Nulla facilisi. Suspendisse vestibulum quis mi in ullamcorper. Donec rhoncus vitae velit iaculis lobortis. Aliquam eleifend dignissim orci.
+Rent is normally paid termly when the student receives their student loan, however we do
+                        understand that some students receive their loans monthly or pay their rent by other means. You
+                        can discuss payment arrangements with our team.
 
 <hr />
 
