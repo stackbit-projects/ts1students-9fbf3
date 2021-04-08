@@ -25,16 +25,17 @@ seo:
 layout: docs
 ---
 
-**text.** text
 
 ## Phone
 
-Phone 
+01642 245796
 
 ## Email
 
-Email
+info@ts1students.com
 
 ## Address
 
-Address
+75-77 Borough Road,
+Middlesbrough,
+TS1 3AA
