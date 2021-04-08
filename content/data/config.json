@@ -36,8 +36,7 @@
                 "url": "/docs/faq",
                 "style": "link",
                 "has_subnav": false,
-                "subnav_links": [
-                ]
+                "subnav_links": []
             },
             {
                 "label": "Contact Us",
@@ -47,5 +46,12 @@
             }
         ]
     },
-    "domain": "https://www.ts1students.co.uk/"
+    "domain": "https://www.ts1students.co.uk/",
+    "footer": {
+        "content": "lorem-ipsum",
+        "links": [],
+        "has_social": true,
+        "social_links": [],
+        "type": "footer"
+    }
 }
