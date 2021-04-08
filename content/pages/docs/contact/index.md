@@ -24,11 +24,11 @@ seo:
       value: This is the community page
 layout: docs
 ---
-
-
 ## Phone
 
-01642 245796
+Office: 01642 245796
+
+Emergency out of hours: 07401309501 
 
 ## Email
 
