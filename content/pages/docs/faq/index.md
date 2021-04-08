@@ -26,8 +26,6 @@ layout: docs
 ---
 Take a look at our most frequently asked questions below. If your question is not here then feel free to write to us using the form below.
 
-
-
 ## What fees do I have to pay?
 
 TS1 do not charge any admin fees or reservation fees for students. All that we ask, is that you make an upfront payment of £50 per person, which comes out of your deposit, to secure the property. You then have until the start of your tenancy to pay the rest of your deposit, which will be between £150-£200 per person.
@@ -48,13 +46,13 @@ All of our properties will include your utility bills such as gas, electric and 
 
 ## What do I do if there is a fault?
 
-You can contact a member of our team by emailing ts1students@thirlwell-estates.co.uk or call the office Monday - Friday 9am-5pm on 01642 245 796 to report the issue.
+You can contact a member of our team by emailing info@ts1students.com or call the office Monday - Friday 9am-5pm on 01642 245 796 to report the issue.
 
 <hr />
 
 ## What do I do in case of an emergency?
 
-In case of an emergency that requires immediate attention please call our office on 01642 245 796 during working hours. Please call 07866210735 for any emergencies that may occur in the evenings after 5pm, weekends, and bank holidays including over the Christmas and New Year period. Please understand that although it may seem like it, being locked out is not classed as an emergency and can be reported to our office within working hours.
+In case of an emergency that requires immediate attention please call our office on 01642 245 796 during working hours. Please call 07401309501 for any emergencies that may occur in the evenings after 5pm, weekends, and bank holidays including over the Christmas and New Year period. Please understand that although it may seem like it, being locked out is not classed as an emergency and can be reported to our office within working hours.
 
 <hr />
 
